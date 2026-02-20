@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # numerckal
 
 A new Flutter project.
@@ -16,3 +17,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# numerckal." 
+=======
+"# numerckal" 
+>>>>>>> 75f47215be0293cc749b09d53843eaf1d84bd64c
