@@ -1,24 +1,37 @@
-<<<<<<< HEAD
-# numerckal
+🔢 numerckal
 
-A new Flutter project.
+This project was created as my first task under the supervision of Eng. Fady Sameh
+in the Flutter track from the Digital Egypt Initiative.
 
-## Getting Started
+The project is a simple Flutter application that displays numbers in a clean and organized layout.
 
-This project is a starting point for a Flutter application.
+It was built to practice basic Flutter concepts like:
 
-A few resources to get you started if this is your first Flutter project:
+Layout
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+UI design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# numerckal." 
-=======
-"# numerckal" 
->>>>>>> 75f47215be0293cc749b09d53843eaf1d84bd64c
-"# numerckal." 
-"# numerckal." 
+🚀 Features
+
+Clean and simple UI
+
+Grid layout for numbers
+
+Lightweight and fast
+
+Runs on Web, Android, and Desktop
+
+🛠 Built With
+
+Flutter
+
+Dart
+
+ 📷 Screenshot
+<img width="1915" height="1033" alt="Screenshot 2026-02-20 214102" src="https://github.com/user-attachments/assets/ab496933-4f48-4865-881a-d88cfd91014c" />
+
+
+Author
+
+Michael Dahwood
+https://github.com/MichaeldahwoodBakhyt
